@@ -16,11 +16,6 @@
     <p>Page coming soon.</p>
 
     <p>Page has been open for <code>{count}</code> seconds.</p>
-    <p>
-      <a href="https://svelte.dev" target="_blank" rel="noopener noreferrer">
-        Learn Svelte
-      </a>
-    </p>
   </header>
 </div>
 
